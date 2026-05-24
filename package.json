@@ -1,0 +1,12 @@
+{
+  "name": "malvin-c-sprint",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.7.0"
+  }
+}
